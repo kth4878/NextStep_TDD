@@ -1,1 +1,97 @@
-# gsc_th
+콘텐츠로 건너뛰기
+검색 또는 이동…
+풀 요청 의
+문제
+시장
+탐구하다
+ 
+@kth4878 
+xlffm3
+/
+NextStep-TDD
+공공의
+1
+00
+암호
+문제
+풀 리퀘스트
+행위
+프로젝트
+위키
+보안
+인사이트
+NextStep-TDD/ README.md
+@xlffm3
+xlffm3 리팩터링: 순서 변경
+최신 커밋 118942c on 9 Feb
+ 역사
+ 기여자 1명
+56라인(38슬로)  3.73KB
+   
+#  NextStep - TDD, 리팩토링, Java로 코드 정리
+
+<img src="https://user-images.githubusercontent.com/56240505/81491942-8164b300-92ce-11ea-97ed-7ae5864d781e.png" alt="이미지 제목" width="400"/><br>
+
+> NextStep의 [TDD, 리팩토링, 클린 코드](https://edu.nextstep.camp/c/8fWRxNWU/) 8기 부터 현재까지 모든 프로젝트를 연속으로 제공합니다.
+* 덧 : ``2020.05.09 - 2020.07.04``
+
+<br>
+
+##  🐓 레벨 4 : 볼링 화재판 - OOP
+
+
+| 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
+|:---:|:---:|:---:|:---|
+| 1 | 삭제 질문 기능 리팩토링 | [자바볼링-tdd-step1](https://github.com/xlffm3/java-bowling-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/162) |
+| 2 | 볼링판(그리기) | [자바볼링-tdd-step2](https://github.com/xlffm3/java-bowling-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/167) |
+| 3 | 볼링판(점수 계산) | [자바볼링-tdd-step3](https://github.com/xlffm3/java-bowling-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/199) |
+| 4 | 볼링판(n명) | [자바볼링-tdd-step4](https://github.com/xlffm3/java-bowling-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/214) |
+
+<br>
+
+##  🐥 레벨 3 : 쏘쏘 - FP, OOP
+
+| 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
+|:---:|:---:|:---:|:---|
+| 1 | 스트림, 람다, 선택 사항 | [java-ladder-tdd-step1](https://github.com/xlffm3/java-ladder-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/401) |
+| 2 | 사투리(생성) | [java-ladder-tdd-step2](https://github.com/xlffm3/java-ladder-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/413) |
+| 3 | 사투리(게임 실행) | [java-ladder-tdd-step3](https://github.com/xlffm3/java-ladder-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/446) |
+| 4 | 사투리(리팩토링) | [java-ladder-tdd-step4](https://github.com/xlffm3/java-ladder-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/481) |
+
+<br>
+
+##  🐣 Level 2 : 로또 - TDD
+
+| 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
+|:---:|:---:|:---:|:---|
+| 1 | 덧셈 계산기 | [java-lotto-tdd-step1](https://github.com/xlffm3/java-lotto-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/520) |
+| 2 | 로또(자동) | [java-lotto-tdd-step2](https://github.com/xlffm3/java-lotto-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/546) |
+| 3 | 로또(2등) | [java-lotto-tdd-step3](https://github.com/xlffm3/java-lotto-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/583) |
+| 4 | 로또(수동) | [java-lotto-tdd-step4](https://github.com/xlffm3/java-lotto-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/615) |
+
+<br>
+
+##  🥚 레벨 1 : 자동차 경주 - 단위 테스트
+
+| 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
+|:---:|:---:|:---:|:---|
+| 1 | 계산기 | [java-racingcar-tdd-step1](https://github.com/xlffm3/java-racingcar-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/725) |
+| 2 | 자동차 경주 | [java-racingcar-tdd-step2](https://github.com/xlffm3/java-racingcar-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/777) |
+| 3 | 자동차 경주(우승자) | [java-racingcar-tdd-step3](https://github.com/xlffm3/java-racingcar-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/865) |
+| 4 | 자동차 경주(리팩토링) | [java-racingcar-tdd-step4](https://github.com/xlffm3/java-racingcar-tdd/tree/step5) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/913) |
+
+<br>
+
+---
+© 2021 GitHub, Inc.
+자귀
+은둔
+보안
+상태
+문서
+GitHub에 문의
+가격
+API
+훈련
+블로그
+에 대한
