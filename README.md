@@ -2,8 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/56240505/81491942-8164b300-92ce-11ea-97ed-7ae5864d781e.png" alt="이미지 제목" width="400"/><br>
 
-> NextStep의 [TDD, 리팩토링, 클린 코드](https://edu.nextstep.camp/c/8fWRxNWU/) 8기 부터 현재까지 모든 프로젝트를 연속으로 제공합니다.
-* 덧 : ``2020.05.09 - 2020.07.04``
+> NextStep의 [TDD, 리팩토링, 클린 코드](https://edu.nextstep.camp/c/8fWRxNWU/) 13기
+* 덧 : ``2021.11.01 - 2021.12.31``
 
 <br>
 
