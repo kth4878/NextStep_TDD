@@ -1,33 +1,3 @@
-콘텐츠로 건너뛰기
-검색 또는 이동…
-풀 요청 의
-문제
-시장
-탐구하다
- 
-@kth4878 
-xlffm3
-/
-NextStep-TDD
-공공의
-1
-00
-암호
-문제
-풀 리퀘스트
-행위
-프로젝트
-위키
-보안
-인사이트
-NextStep-TDD/ README.md
-@xlffm3
-xlffm3 리팩터링: 순서 변경
-최신 커밋 118942c on 9 Feb
- 역사
- 기여자 1명
-56라인(38슬로)  3.73KB
-   
 #  NextStep - TDD, 리팩토링, Java로 코드 정리
 
 <img src="https://user-images.githubusercontent.com/56240505/81491942-8164b300-92ce-11ea-97ed-7ae5864d781e.png" alt="이미지 제목" width="400"/><br>
@@ -83,15 +53,3 @@ xlffm3 리팩터링: 순서 변경
 <br>
 
 ---
-© 2021 GitHub, Inc.
-자귀
-은둔
-보안
-상태
-문서
-GitHub에 문의
-가격
-API
-훈련
-블로그
-에 대한
