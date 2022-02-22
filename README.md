@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/56240505/81491942-8164b300-92ce-11ea-97ed-7ae5864d781e.png" alt="이미지 제목" width="400"/><br>
 
 > NextStep의 [TDD, 리팩토링, 클린 코드](https://edu.nextstep.camp/c/8fWRxNWU/) 13기
-* 덧 : ``2021.11.01 - 2021.12.31``
+* 기간 : ``2021.11.01 - 2021.12.31``
 
 <br>
 
