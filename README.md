@@ -24,9 +24,9 @@
 | 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
 |:---:|:---:|:---:|:---|
 | 1 | 스트림, 람다, 선택 사항 | [java-ladder-tdd-step1](https://github.com/kth4878/java-ladder/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1226) |
-| 2 | 사투리(생성) | [java-ladder-tdd-step2](https://github.com/kth4878/java-ladder/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1231) |
-| 3 | 사투리(게임 실행) | [java-ladder-tdd-step3](https://github.com/kth4878/java-ladder/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1252) |
-| 4 | 사투리(리팩토링) | [java-ladder-tdd-step4](https://github.com/kth4878/java-ladder/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1276) |
+| 2 | 사다리(생성) | [java-ladder-tdd-step2](https://github.com/kth4878/java-ladder/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1231) |
+| 3 | 사다리(게임 실행) | [java-ladder-tdd-step3](https://github.com/kth4878/java-ladder/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1252) |
+| 4 | 사다리(리팩토링) | [java-ladder-tdd-step4](https://github.com/kth4878/java-ladder/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/1276) |
 
 <br>
 
