@@ -45,10 +45,10 @@
 
 | 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
 |:---:|:---:|:---:|:---|
-| 1 | 계산기 | [java-racingcar-tdd-step1](https://github.com/xlffm3/java-racingcar-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/725) |
-| 2 | 자동차 경주 | [java-racingcar-tdd-step2](https://github.com/xlffm3/java-racingcar-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/777) |
-| 3 | 자동차 경주(우승자) | [java-racingcar-tdd-step3](https://github.com/xlffm3/java-racingcar-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/865) |
-| 4 | 자동차 경주(리팩토링) | [java-racingcar-tdd-step4](https://github.com/xlffm3/java-racingcar-tdd/tree/step5) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/913) |
+| 1 | 계산기 | [java-racingcar-tdd-step1](https://github.com/kth4878/java-racingcar/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/725) |
+| 2 | 자동차 경주 | [java-racingcar-tdd-step2](https://github.com/kth4878/java-racingcar/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/777) |
+| 3 | 자동차 경주(우승자) | [java-racingcar-tdd-step3](https://github.com/kth4878/java-racingcar/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/865) |
+| 4 | 자동차 경주(리팩토링) | [java-racingcar-tdd-step4](https://github.com/kth4878/java-racingcar/tree/step5) | [풀리퀘스트](https://github.com/next-step/java-racingcar/pull/913) |
 
 <br>
 
