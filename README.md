@@ -7,26 +7,26 @@
 
 <br>
 
-##  🐓 레벨 4 : 볼링 화재판 - OOP
+##  🐓 레벨 4 : 볼링 점수판 - OOP
 
 
 | 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
 |:---:|:---:|:---:|:---|
-| 1 | 삭제 질문 기능 리팩토링 | [자바볼링-tdd-step1](https://github.com/xlffm3/java-bowling-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/162) |
-| 2 | 볼링판(그리기) | [자바볼링-tdd-step2](https://github.com/xlffm3/java-bowling-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/167) |
-| 3 | 볼링판(점수 계산) | [자바볼링-tdd-step3](https://github.com/xlffm3/java-bowling-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/199) |
-| 4 | 볼링판(n명) | [자바볼링-tdd-step4](https://github.com/xlffm3/java-bowling-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/214) |
+| 1 | 삭제 질문 기능 리팩토링 | [자바볼링-tdd-step1](https://github.com/kth4878/java-bowling/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/162) |
+| 2 | 볼링판(그리기) | [자바볼링-tdd-step2](https://github.com/kth4878/java-bowling/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/167) |
+| 3 | 볼링판(점수 계산) | [자바볼링-tdd-step3](https://github.com/kth4878/java-bowling/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/199) |
+| 4 | 볼링판(n명) | [자바볼링-tdd-step4]() | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/214) |
 
 <br>
 
-##  🐥 레벨 3 : 쏘쏘 - FP, OOP
+##  🐥 레벨 3 : 사다리 타기 - FP, OOP
 
 | 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
 |:---:|:---:|:---:|:---|
-| 1 | 스트림, 람다, 선택 사항 | [java-ladder-tdd-step1](https://github.com/xlffm3/java-ladder-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/401) |
-| 2 | 사투리(생성) | [java-ladder-tdd-step2](https://github.com/xlffm3/java-ladder-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/413) |
-| 3 | 사투리(게임 실행) | [java-ladder-tdd-step3](https://github.com/xlffm3/java-ladder-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/446) |
-| 4 | 사투리(리팩토링) | [java-ladder-tdd-step4](https://github.com/xlffm3/java-ladder-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/481) |
+| 1 | 스트림, 람다, 선택 사항 | [java-ladder-tdd-step1](https://github.com/kth4878/java-ladder/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/401) |
+| 2 | 사투리(생성) | [java-ladder-tdd-step2](https://github.com/kth4878/java-ladder/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/413) |
+| 3 | 사투리(게임 실행) | [java-ladder-tdd-step3](https://github.com/kth4878/java-ladder/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/446) |
+| 4 | 사투리(리팩토링) | [java-ladder-tdd-step4](https://github.com/kth4878/java-ladder/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-ladder/pull/481) |
 
 <br>
 
@@ -34,10 +34,10 @@
 
 | 단계 | 프로젝트 | 저장소 | 풀 리퀘스트 |
 |:---:|:---:|:---:|:---|
-| 1 | 덧셈 계산기 | [java-lotto-tdd-step1](https://github.com/xlffm3/java-lotto-tdd/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/520) |
-| 2 | 로또(자동) | [java-lotto-tdd-step2](https://github.com/xlffm3/java-lotto-tdd/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/546) |
-| 3 | 로또(2등) | [java-lotto-tdd-step3](https://github.com/xlffm3/java-lotto-tdd/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/583) |
-| 4 | 로또(수동) | [java-lotto-tdd-step4](https://github.com/xlffm3/java-lotto-tdd/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/615) |
+| 1 | 덧셈 계산기 | [java-lotto-tdd-step1](https://github.com/kth4878/java-lotto/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/520) |
+| 2 | 로또(자동) | [java-lotto-tdd-step2](https://github.com/kth4878/java-lotto/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/546) |
+| 3 | 로또(2등) | [java-lotto-tdd-step3](https://github.com/kth4878/java-lotto/tree/step3) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/583) |
+| 4 | 로또(수동) | [java-lotto-tdd-step4](https://github.com/kth4878/java-lotto/tree/step4) | [풀리퀘스트](https://github.com/next-step/java-lotto/pull/615) |
 
 <br>
 
