@@ -14,8 +14,8 @@
 |:---:|:---:|:---:|:---|
 | 1 | 삭제 질문 기능 리팩토링 | [자바볼링-tdd-step1](https://github.com/kth4878/java-bowling/tree/step1) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/733) |
 | 2 | 볼링판(그리기) | [자바볼링-tdd-step2](https://github.com/kth4878/java-bowling/tree/step2) | [풀리퀘스트](https://github.com/next-step/java-bowling/pull/746) |
-| 3 | 볼링판(점수 계산) | [자바볼링-tdd-step3]() | [풀리퀘스트]() |
-| 4 | 볼링판(n명) | [자바볼링-tdd-step4]() | [풀리퀘스트]() |
+<!-- | 3 | 볼링판(점수 계산) | [자바볼링-tdd-step3]() | [풀리퀘스트]() |
+| 4 | 볼링판(n명) | [자바볼링-tdd-step4]() | [풀리퀘스트]() | -->
 
 <br>
 
